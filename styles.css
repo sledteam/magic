@@ -3,10 +3,14 @@ html, body{
 }
 
 h1{
-  font-size:80px;
+  font-size:60px;
   color:black;
+  text-align:center;
+  margin-top:40vw;
 }
 
 h2{
-  font-size:60px;
+  font-size:40px;
+  text-align:center;
+  margin-top:5vw;
 }
